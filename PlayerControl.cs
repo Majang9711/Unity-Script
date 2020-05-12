@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerControlAPI : MonoBehaviour
+public class PlayerControl : MonoBehaviour
 {
 
   public static PlayerControl instance;
