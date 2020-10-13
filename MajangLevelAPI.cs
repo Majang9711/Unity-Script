@@ -43,6 +43,11 @@ public class MajangLevelAPI : MonoBehaviour
     Exp = StartExp; //초기값 설정
 
   }
+  
+  public int getLevel()
+  {
+    retrun Level;
+  }
 
   public void addExp(int num) //경험치 주기
   {
